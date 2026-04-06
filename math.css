@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+body{
+    background-color:rgba(139, 139, 139, 0.693);
+}
+
+
+div{
+  background: rgba(255, 255, 255, 0.4);
+  width: 900px;
+  height: auto;
+  border-radius: 60px;
+  box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
+  margin: auto;
+}
+
+h2, label, a{
+  font-family: arial;
+  margin: 0;
+  padding-top: 10px;
+  margin-left: 50px;
+  font-size: 50px;
+}
+
+button{
+  color: rgba(0, 0, 0, 0.6);
+  border-radius: 14px;
+  width: 120px;
+  height: 60px;
+  margin-left: 150px;
+  font-size: 30px;
+}
+
+input{
+  display: inline-block;
+  width: 20%;
+  padding: 0.5em;
+  border: 30px rgba(85, 235, 255, 0.6);
+  font-size: 30px;
+  border-radius: 15px;
+}
+
+#n_in_C2{
+  margin-left: 510px;
+  margin-top: 10px;
+}
+
+#n_in_BMw{
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+
+#n_in_BMB{
+  margin-left: 7.5px;
+  margin-top: 10px;
+}
